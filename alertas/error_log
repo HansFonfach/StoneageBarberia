@@ -1,0 +1,118 @@
+[09-Aug-2019 17:46:29 UTC] PHP Parse error:  syntax error, unexpected ''Stoneage Barbería le recuerd' (T_ENCAPSED_AND_WHITESPACE) in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 14
+[09-Aug-2019 23:29:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:29:03 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:29:03 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[09-Aug-2019 23:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[09-Aug-2019 23:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[09-Aug-2019 23:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[10-Aug-2019 23:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[10-Aug-2019 23:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[10-Aug-2019 23:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[10-Aug-2019 23:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[10-Aug-2019 23:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[10-Aug-2019 23:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[11-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[11-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[11-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[11-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[11-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[11-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[12-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[12-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[12-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[12-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[12-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[12-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[13-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[13-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[13-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[13-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[13-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[13-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[14-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[14-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[14-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[14-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[14-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[14-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[15-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[15-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[15-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[15-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[15-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[15-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[16-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[16-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[16-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[16-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[16-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[16-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[17-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[17-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[17-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[17-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[17-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[17-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[18-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[18-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[18-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[18-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[18-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[18-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[19-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[19-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[19-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[19-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[19-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[19-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[20-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[20-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[20-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[20-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[20-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[20-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[21-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[21-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[21-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[21-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[21-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[21-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[22-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[22-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[22-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[22-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[22-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[22-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[23-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[23-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[23-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[23-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[23-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[23-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[24-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[24-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[24-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[24-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[24-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[24-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[25-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[25-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[25-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[25-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[25-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[25-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[26-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[26-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[26-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[26-Aug-2019 22:31:01 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[26-Aug-2019 22:31:01 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[26-Aug-2019 22:31:01 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[27-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[27-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[27-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
+[27-Aug-2019 22:31:02 UTC] PHP Warning:  include(funciones/setup.php): failed to open stream: No such file or directory in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[27-Aug-2019 22:31:02 UTC] PHP Warning:  include(): Failed opening 'funciones/setup.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 2
+[27-Aug-2019 22:31:02 UTC] PHP Fatal error:  Call to undefined function conecta() in /home2/cst51073/public_html/alertas/correo_recordatorio.php on line 9
